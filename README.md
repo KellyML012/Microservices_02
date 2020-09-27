@@ -1,3 +1,3 @@
 # Saludos, terrícolas.
-Hola, veno del planeta Marte.
+Hola, vengo del planeta Marte.
 Vengo en zon de paz.
